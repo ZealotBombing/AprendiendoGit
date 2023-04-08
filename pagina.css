@@ -1,10 +1,12 @@
 h1{
 	color: teal;
 	align-content: center;
+	
 }
 body{
 	background: red;
 }
 p{
 	color: orange;
+	background: blue;
 }
